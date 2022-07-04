@@ -1,6 +1,33 @@
-body{
+body {
     font-family: 'Bebas Neue', cursive;
-    }
-    h1{
-        font-size: 60px;
-    }
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.pink-color {
+    color: rgb(57, 187, 14)
+}
+
+.red {
+    color: red
+}
+
+.orange {
+    color: orangered
+}
+
+.font {
+    font-size: 30px;
+    color: rgb(173, 235, 4);
+}
+
+.paragraph {
+    font-size: 20px;
+    color: black
+}
+
+section {
+    display: flex;
+}
