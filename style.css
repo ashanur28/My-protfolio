@@ -1,5 +1,6 @@
 body {
     font-family: 'Bebas Neue', cursive;
+    margin: 0%;
 }
 
 h1 {
@@ -51,5 +52,9 @@ section {
     background-image: linear-gradient(yellow, red);
     font-style: Fira Sans;
     font-weight: 800;
+}
 
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
