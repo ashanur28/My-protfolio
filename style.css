@@ -7,6 +7,10 @@ h1 {
     font-size: 60px;
 }
 
+h2 {
+    font-size: 45px;
+}
+
 .pink-color {
     color: rgb(57, 187, 14)
 }
@@ -29,7 +33,7 @@ h1 {
     color: black
 }
 
-section {
+.flexible-container {
     display: flex;
 }
 
@@ -43,6 +47,7 @@ section {
 
 .width {
     padding-left: 5%;
+    border-left: 10px solid royalblue;
 }
 
 .link-button {
@@ -96,4 +101,33 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+#developer {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px 60px rgb(109, 3, 3);
+
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.css {
+    border-left: 10px solid rgb(71, 5, 5);
+}
+
+footer {
+    text-align: center;
+    color: maroon;
 }
