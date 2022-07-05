@@ -58,3 +58,36 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.dream {
+    font-size: 50px;
+    color: rgb(151, 65, 5);
+}
+
+.color2 {
+    color: rgb(218, 9, 9);
+    font-size: 50px;
+}
+
+.width-1 img {
+    width: 80% padding-right:60px
+}
+
+.orange-1 {
+    font-size: 35px;
+}
+
+.paragraph-1 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.padding {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.resize {
+    padding-left: 1%;
+
+}
